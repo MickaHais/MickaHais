@@ -16,13 +16,15 @@ Front
 
 Back
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,py,php,nextjs,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,py,php,nextjs,django,express)](https://skillicons.dev)
 
 SQL & NoSQL
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,supabase,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,supabase,firebase,mysql,mongodb)](https://skillicons.dev)
 
 Outils
+
+[![My Skills](https://skillicons.dev/icons?i=docker,ps,figma,vscode)](https://skillicons.dev)
 
 
 ❤️ Me contacter
