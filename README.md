@@ -29,4 +29,4 @@ Outils
 
 ❤️ Me contacter
 
-Mon lien linkdin : https://www.linkedin.com/in/mickael-hais/
+Mon lien Linkedin : https://www.linkedin.com/in/mickael-hais/
