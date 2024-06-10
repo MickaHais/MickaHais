@@ -29,4 +29,4 @@ Outils
 
 ❤️ Me contacter
 
-Mon lien [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev): https://www.linkedin.com/in/mickael-hais/
+Mon lien  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) : https://www.linkedin.com/in/mickael-hais/
