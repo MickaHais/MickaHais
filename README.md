@@ -24,7 +24,7 @@ SQL & NoSQL
 
 Outils
 
-[![My Skills](https://skillicons.dev/icons?i=docker,ps,figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,figma,vscode,ps)](https://skillicons.dev)
 
 
 ❤️ Me contacter
