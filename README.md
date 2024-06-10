@@ -15,10 +15,12 @@ Front
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
 Back
-My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs, py, php, nextjs, django)](https://skillicons.dev)
 
 SQL & NoSQL
-My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=postgres, supabase, firebase)](https://skillicons.dev)
 
 Outils
 My Skills
