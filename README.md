@@ -11,7 +11,7 @@ J'aimerais à terme devenir développeur full-stack.
 
 🛠️ Mes Langages & Outils
 Front
-My Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
 Back
 My Skills
