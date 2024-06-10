@@ -1,7 +1,7 @@
 # Hello Moi, c'est Mickaël ! Bienvenue chez moi !
 
 
-*** Actuellement à la recherche d'une Alternance ***
+***Actuellement à la recherche d'une Alternance***
 
 Je suis un jeune passioné de développement et de programmation en tout genre.
 
