@@ -1,16 +1,26 @@
-## Hi there 👋
+Hello Moi, c'est Mickaël ! Bienvenue chez moi !
 
-<!--
-**MickaHais/MickaHais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Actuellement à la recherche d'une Alternance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je suis un jeune passioné de développement et de programmation en tout genre.
+
+🧐 A propos de moi
+Je suis étudiant en fin de 1ère année de développement web à Hetic.
+J'aimerais à terme devenir développeur full-stack.
+
+🛠️ Mes Langages & Outils
+Front
+My Skills
+
+Back
+My Skills
+
+SQL & NoSQL
+My Skills
+
+Outils
+My Skills
+
+❤️ Me contacter
+Mon lien LinkedIn: https://www.linkedin.com/in/mickael-hais/
