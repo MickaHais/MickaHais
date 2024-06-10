@@ -5,7 +5,7 @@
 
 Je suis un jeune passioné de développement et de programmation en tout genre.
 
-🧐 A propos de moi
+## 🧐 A propos de moi
 Je suis étudiant en fin de 1ère année de développement web à Hetic.
 J'aimerais à terme devenir développeur full-stack.
 
