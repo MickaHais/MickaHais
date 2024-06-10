@@ -16,14 +16,14 @@ Front
 
 Back
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs, py, php, nextjs, django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,py,php,nextjs,django)](https://skillicons.dev)
 
 SQL & NoSQL
 
-[![My Skills](https://skillicons.dev/icons?i=postgres, supabase, firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,supabase,firebase)](https://skillicons.dev)
 
 Outils
-My Skills
+
 
 ❤️ Me contacter
 Mon lien LinkedIn: https://www.linkedin.com/in/mickael-hais/
