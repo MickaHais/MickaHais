@@ -9,7 +9,7 @@ Je suis un jeune passioné de développement et de programmation en tout genre.
 Je suis étudiant en fin de 1ère année de développement web à Hetic.
 J'aimerais à terme devenir développeur full-stack.
 
-🛠️ Mes Langages & Outils
+## 🛠️ Mes Langages & Outils
 Front
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
@@ -27,6 +27,6 @@ Outils
 [![My Skills](https://skillicons.dev/icons?i=docker,figma,vscode,ps)](https://skillicons.dev)
 
 
-❤️ Me contacter
+### ❤️ Me contacter
 
 Mon lien Linkedin : https://www.linkedin.com/in/mickael-hais/
